@@ -1,0 +1,22 @@
+<html> 
+    <head>
+        <meta charset="UTF-8"/>
+<title> Desafio 1 Database Experience </title>
+<br>
+<body> <h1> Introdução ao Git HuB- professor Denilson Bonatti, Tech Lead DIO</h1>
+
+<br>
+ <h2> O que é o Git Hub? </h2>
+ <p> O Git Hub é um repositório de códigos. Ele é especiamente útil para criar e armazenar códigos,
+ele também é importante para organizar as versões e atualizações. 
+ </p>
+<br> <h3> Criando seu github </h3>
+<br>
+<li> Entre no www.github.com </li>
+<li> Crie sua conta </li>
+<li> Instale o Git no seu PC </li>
+<li> Certifique-se de instalar o <Git class="Bash exe"></Git></li>
+<li> Entre no VS Code, autorize a integração dele com o github </li>
+<li> Entre no VS Code, clique em File - Preferences - Settings - Features - Terminal </li>
+<li> No Terminal você deve procurar por Integrated, 
+e lá você coloca C:/Program>Git>git.bash.exe para integrar copm o seu Git Bash</li>
